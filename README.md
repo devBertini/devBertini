@@ -2,7 +2,7 @@
 
 - 🔭 Atualmente trabalho com fullstack;
 - 🌱 Estudando VueJs;
-- 😄 Pronouns: Ele/Dele;
+- 😄 Ele/Dele;
 
 
  <div align="center">
