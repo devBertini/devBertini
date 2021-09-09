@@ -1,7 +1,7 @@
 ### Olá, eu sou o Claudio Bertini
 
-- 🔭 Atualmente trabalho com fullstack;
-- 🌱 Estudando VueJs;
+- 🔭 Atualmente trabalho como fullstack;
+- 🌱 Estudando VueJs e Lumen;
 - 😄 Ele/Dele;
 
 
