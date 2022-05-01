@@ -5,7 +5,7 @@
 - 😄 Ele/Dele;
 
 
- <div align="center">
+ <div align="center" style="">
   <a href="https://github.com/devBertini">
    <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api?username=devBertini&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   </a>
