@@ -1,22 +1,23 @@
 ### Olá, eu sou o Claudio Bertini
 
 - 🔭 Atualmente trabalho como Desenvolvedor Fullstack Pleno;
-- 🌱 Trabalhando em NodeJs, PHP e VueJs;
+- 🌱 Atualmente trabalhando em NodeJs, PHP e VueJs;
 - 😄 Ele/Dele;
 
 
  <div align="center" style="">
   <a href="https://github.com/devBertini">
-   <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api?username=devBertini&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+   <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api?username=devBertini&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   </a>
   <a href="https://github.com/devBertini">
-   <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devBertini&layout=compact&theme=midnight-purple"/>
+   <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devBertini&layout=compact&theme=dark"/>
   </a>
 </div>
 
 <div style="display: inline_block" align="center"><br>
-  <img align="center" alt="javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="center" alt="nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img align="center" alt="ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="center" alt="php" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
   <img align="center" alt="vuejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
   <img align="center" alt="docker" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
