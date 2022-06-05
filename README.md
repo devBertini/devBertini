@@ -1,6 +1,6 @@
 ### Olá, eu sou o Claudio Bertini
 
-- 🔭 Atualmente trabalho como Desenvolvedor Fullstack Pleno;
+- 🔭 Trabalho como Desenvolvedor Fullstack Pleno;
 - 🌱 Atualmente trabalhando em NodeJs, PHP e VueJs;
 - 😄 Ele/Dele;
 
