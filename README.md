@@ -1,38 +1,44 @@
-### Olá, eu sou o Claudio Bertini
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=devBertini.devBertini&left_color=black&right_color=aqua&left_text=Visitantes" /><br>
+<p align="center">Olá!<br><br>Sinta-se a vontade para utilizar quaisquer projetos dentro deste Github.<br>Se gostar de algo, não esqueça as stars e o fork caso vá utilizar algo.</p>
 
-- 🔭 Trabalho como Desenvolvedor Fullstack Pleno;
-- 🌱 Atualmente trabalhando em NodeJs, PHP e VueJs;
-- 😄 Ele/Dele;
+###
 
+<br clear="both">
 
- <div align="center" style="">
-  <a href="https://github.com/devBertini">
-   <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api?username=devBertini&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  </a>
-  <a href="https://github.com/devBertini">
-   <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devBertini&layout=compact&theme=dark"/>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" height="30" width="42" alt="adonisjs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" width="42" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" width="42" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" width="42" alt="vuejs logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=pt-br&hide_border=true&username=devBertini" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&hide_title=false&layout=default &card_width=320&langs_count=5&theme=github_dark&hide_border=false&username=devBertini" height="130" alt="languages graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img height="200" src="https://c.tenor.com/VOQM9bXxYdQAAAAi/anime.gif"  />
+</div>
+
+###
+
+<br clear="both">
+
+<div align="center">
+ <p>Entre em contato!</p>
+  <a href="https://www.linkedin.com/in/claudio-bertini/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" height="40" alt="linkedin logo"  />
   </a>
 </div>
 
-<div style="display: inline_block" align="center"><br>
-  <img align="center" alt="nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img align="center" alt="ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align="center" alt="php" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
-  <img align="center" alt="vuejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
-  <img align="center" alt="docker" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
-  <img align="center" alt="mysql" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-</div>
-  
-  ##
- 
-<div align="center"> 
- <div align="space-around">
-   <a href="https://instagram.com/claudio.bertini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=black" target="_blank"></a>
-   <a href = "mailto:dev.bertini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=black" target="_blank"></a>
-   <a href="https://www.linkedin.com/in/claudio-bertini/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=black" target="_blank"></a> 
- </div>
+###
 
-  ![Snake animation](https://github.com/devBertini/devBertini/blob/output/github-contribution-grid-snake.svg)
-  </div>
- 
+
+
+###
