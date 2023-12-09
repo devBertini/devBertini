@@ -1,5 +1,5 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=devBertini.devBertini&left_color=black&right_color=aqua&left_text=Visitantes" /><br>
-<p align="center">Olá!<br><br>Sinta-se a vontade para utilizar quaisquer projetos dentro deste Github.<br>Se gostar de algo, não esqueça as stars e o fork caso vá utilizar algo.</p>
+<p align="center">Olá!<br><br>Sinta-se a vontade para utilizar quaisquer projetos dentro deste Github.<br>Se gostar de algo, não esqueça as stars e o fork caso vá utilizar.</p>
 
 ###
 
