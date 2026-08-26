@@ -13,8 +13,8 @@ is allowed to change, before a container is ever started.
 
 **The part of it I am proudest of is the part that ships switched off.**
 
-> Injecting a written skill into the developer's prompt was supposed to help. Measured over 27
-> paired runs (nine tasks, three samples each, same GPU, same model, same seed, the 430-token skill
+> Injecting a written skill into the developer's prompt was supposed to help. Measured over 54
+> paired runs (nine tasks, six samples each, same GPU, same model, same seed, the 430-token skill
 > the only variable), correctness fell **66.7% → 55.6%** and format adherence **98.1% → 68.5%**. The
 > mechanism is finished and tested. `skills.roots` ships empty, because turning it on needs a number
 > it does not have.
