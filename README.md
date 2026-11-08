@@ -65,7 +65,8 @@ conferida automaticamente por testes e regras. Atendo empresas no Brasil e, por 
 
 ## Contact
 
-<p>
-  <a href="https://www.linkedin.com/in/claudio-bertini/"><img src="https://img.shields.io/badge/LinkedIn-claudio--bertini-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://devbertini.github.io/"><img src="https://img.shields.io/badge/Site-devbertini.github.io-0E7490?style=for-the-badge" alt="Site" /></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/claudio-bertini/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="34" /></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://devbertini.github.io/"><img src="https://img.shields.io/badge/Portfolio-0E7490?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" height="34" /></a>
 </p>
