@@ -20,7 +20,7 @@ every delivery is checked automatically by tests and rules.
 - 🧠 LLMs in the cloud or local: fine-tuning, 4-bit quantization, NPU and GPU inference
 - 🤖 Coding agents gated by lint, build and tests
 - 📱 Apps around the model: iOS, Windows, Android TV, web
-- 🇧🇷 Goiânia, Brazil · Portuguese and written English
+- 📍 Goiânia, Brazil · Portuguese and written English
 
 </td>
 </tr>
